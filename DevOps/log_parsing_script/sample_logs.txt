@@ -1,0 +1,5 @@
+INFO: User login successful
+INFO: File uploaded
+ERROR: Database connection failed
+WARNING: Low disk space
+ERROR: Invalid password
